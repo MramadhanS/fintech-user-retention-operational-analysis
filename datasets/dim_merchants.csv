@@ -1,0 +1,51 @@
+merchant_id,merchant_name,category
+MCH-2000,Pasar Segar #10,Groceries
+MCH-2001,XL Paket Data #6,Telco
+MCH-2002,Supermarket Utama #1,Groceries
+MCH-2003,Pempek Berk優秀 #1,F&B
+MCH-2004,Lazada Test #6,E-Commerce
+MCH-2005,Gojek Ride #6,Transportation
+MCH-2006,Telkomsel Topup #7,Telco
+MCH-2007,Supermarket Utama #7,Groceries
+MCH-2008,Indomaret Kw #4,Groceries
+MCH-2009,Shopee Sim #5,E-Commerce
+MCH-2010,Gojek Ride #2,Transportation
+MCH-2011,Indomaret Kw #6,Groceries
+MCH-2012,Tokopedia Mock #9,E-Commerce
+MCH-2013,Indomaret Kw #8,Groceries
+MCH-2014,XL Paket Data #9,Telco
+MCH-2015,Indosat Pulsa #1,Telco
+MCH-2016,XL Paket Data #1,Telco
+MCH-2017,Pasar Segar #10,Groceries
+MCH-2018,Indosat Pulsa #10,Telco
+MCH-2019,Kedai Sushi Lokal #2,F&B
+MCH-2020,Lazada Test #8,E-Commerce
+MCH-2021,KAI Ticket #6,Transportation
+MCH-2022,Lazada Test #6,E-Commerce
+MCH-2023,Telkomsel Topup #8,Telco
+MCH-2024,Pempek Berk優秀 #4,F&B
+MCH-2025,Supermarket Utama #1,Groceries
+MCH-2026,Pasar Segar #4,Groceries
+MCH-2027,KAI Ticket #2,Transportation
+MCH-2028,Gojek Ride #10,Transportation
+MCH-2029,Supermarket Utama #2,Groceries
+MCH-2030,KAI Ticket #8,Transportation
+MCH-2031,Telkomsel Topup #6,Telco
+MCH-2032,Ramen Mantap #9,F&B
+MCH-2033,Pasar Segar #9,Groceries
+MCH-2034,Alfamart Fake #7,Groceries
+MCH-2035,Indosat Pulsa #10,Telco
+MCH-2036,Grab Drive #9,Transportation
+MCH-2037,Tokopedia Mock #9,E-Commerce
+MCH-2038,Blibli Fake #4,E-Commerce
+MCH-2039,Indosat Pulsa #9,Telco
+MCH-2040,Grab Drive #10,Transportation
+MCH-2041,Pempek Berk優秀 #4,F&B
+MCH-2042,Pasar Segar #3,Groceries
+MCH-2043,Shopee Sim #5,E-Commerce
+MCH-2044,Indosat Pulsa #6,Telco
+MCH-2045,Ayam Geprek Gembira #7,F&B
+MCH-2046,Supermarket Utama #3,Groceries
+MCH-2047,Alfamart Fake #7,Groceries
+MCH-2048,Tokopedia Mock #3,E-Commerce
+MCH-2049,Tokopedia Mock #4,E-Commerce
